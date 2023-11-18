@@ -93,4 +93,4 @@ Ensemble methods는 Attention Mechanism을 사용하는데 initial Context-less 
 Context-free methods가 오직 prediction을 위한 image features에 의존하기 때문에, occluded나 incomplete Characters와 같은 corruptions에 취약하다.     
 이 한계는 recognition model을 더욱 견고하게 만드는 Language Semantics에 관심을 갖도록 했다.    
 
-### Context-aware STR
+### Context-aware STR
